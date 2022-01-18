@@ -2,7 +2,7 @@ import pygame
 import random
 import time
 from mover import mover
-from Old_Code_Stuff.jsLib import Vector, mean
+from jsLib import Vector, mean
 
 
 WIDTH, HEIGHT = 700, 700
