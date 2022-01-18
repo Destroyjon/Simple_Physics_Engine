@@ -1,5 +1,5 @@
 import pygame
-from Old_Code_Stuff.jsLib import constrain, Vector
+from jsLib import constrain, Vector
 
 
 class mover:
